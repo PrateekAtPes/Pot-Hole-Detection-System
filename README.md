@@ -1,4 +1,4 @@
-# Pot-Hole detection system using MPU 6050 Axis analog  Gyroscope 
+# PotHole detection system using MPU 6050 Axis analog  Gyroscope 
 
  1)Automated Pothole detection system which helps the motive force in fending off route-holes on the roads, with the aid of giving earlier warnings.
 
